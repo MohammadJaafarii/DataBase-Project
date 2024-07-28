@@ -1,0 +1,12 @@
+userID,username,email,password
+user1,john_doe,john.doe@example.com,password123
+user13,lily_jackson,lily.jackson@example.com,pass7890
+user19,olivia_jackson,olivia.jackson@example.com,securepass8
+user21,sophie_martin,sophie.martin@example.com,martinpass
+user24,luke_jackson,luke.jackson@example.com,jacksonpass
+user26,liam_thomas,liam.thomas@example.com,thomaspass
+user27,harper_wilson,harper.wilson@example.com,wilsonpass
+user37,brooklyn_smith,brooklyn.smith@example.com,smithpass5
+user38,sebastian_lee,sebastian.lee@example.com,leepass6
+user5,chris_miller,chris.miller@example.com,letmein
+user6,sarah_wilson,sarah.wilson@example.com,password567
